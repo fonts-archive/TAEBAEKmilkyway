@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'TAEBAEK milkyway';
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+    src: url('https://cdn.jsdelivr.net/gh/fonts-archive/TAEBAEKmilkyway/TAEBAEKmilkyway.otf') format('opentype'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/TAEBAEKmilkyway/TAEBAEKmilkyway.ttf') format('truetype');
+}
