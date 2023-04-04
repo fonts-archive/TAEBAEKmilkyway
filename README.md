@@ -15,7 +15,7 @@ font-family: 'TAEBAEK milkyway';
 link
 
 ```
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fonts-archive/TAEBAEKmilkyway/TAEBAEKmilkyway.css"/>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fonts-archive/TAEBAEKmilkyway/TAEBAEKmilkyway.css" type="text/css"/>
 ```
 
 &nbsp;
