@@ -36,7 +36,9 @@ font-face
     font-weight: 400;
     font-style: normal;
     font-display: swap;
-    src: url('https://cdn.jsdelivr.net/gh/fonts-archive/TAEBAEKmilkyway/TAEBAEKmilkyway.otf') format('opentype'),
+    src: url('https://cdn.jsdelivr.net/gh/fonts-archive/TAEBAEKmilkyway/TAEBAEKmilkyway.woff2') format('woff2'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/TAEBAEKmilkyway/TAEBAEKmilkyway.woff') format('woff'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/TAEBAEKmilkyway/TAEBAEKmilkyway.otf') format('opentype'),
          url('https://cdn.jsdelivr.net/gh/fonts-archive/TAEBAEKmilkyway/TAEBAEKmilkyway.ttf') format('truetype');
 }
 ```
