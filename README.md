@@ -4,7 +4,7 @@
 
 &nbsp;
 
-CSS
+### CSS
 
 ```
 font-family: 'TAEBAEK milkyway';
@@ -12,7 +12,7 @@ font-family: 'TAEBAEK milkyway';
 
 &nbsp;
 
-link
+### link
 
 ```
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fonts-archive/TAEBAEKmilkyway/TAEBAEKmilkyway.css" type="text/css"/>
@@ -20,7 +20,7 @@ link
 
 &nbsp;
 
-import
+### import
 
 ```
 @import url('https://cdn.jsdelivr.net/gh/fonts-archive/TAEBAEKmilkyway/TAEBAEKmilkyway.css');
@@ -28,7 +28,7 @@ import
 
 &nbsp;
 
-font-face
+### font-face
 
 ```
 @font-face {
@@ -41,4 +41,12 @@ font-face
          url('https://cdn.jsdelivr.net/gh/fonts-archive/TAEBAEKmilkyway/TAEBAEKmilkyway.otf') format('opentype'),
          url('https://cdn.jsdelivr.net/gh/fonts-archive/TAEBAEKmilkyway/TAEBAEKmilkyway.ttf') format('truetype');
 }
+```
+
+&nbsp;
+
+### 라이센스 본문
+
+```
+누구나 무료로 다운 받아 사용할 수 있습니다. 영상, 인쇄, 인터넷, 모바일 등 다양한 매체에서 자유롭게 사용 가능하며, 특별한 허가 절차 없이 사용하실 수 있습니다.
 ```
